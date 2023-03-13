@@ -1,6 +1,8 @@
 # AI
 VR Templates
 
+Steps to reproduce:
+
 0)Create a new folder named "Editor" under "Assets" folder. Then put the scripts ChatGPTForUnityEditorDavinci.cs and ChatGPTForUnityEditorTurbo.cs there.
 1) In a Unity scene, drag and drop either davinci003.cs or gptTurbo.cs to a game object.
 2) Paste your own API Key
