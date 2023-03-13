@@ -1,5 +1,5 @@
 # AI
-VR Templates
+Open AI API Templates for Unity3D
 
 Steps to reproduce:
 
@@ -9,7 +9,7 @@ Steps to reproduce:
 3) Write your prompt and hit the button for ask. 
 4) Wait for your answer! 
 
-Shoutout to this video tutorial that served me as the template for my own implementation
+Shoutout to this video tutorial that served me as the template for my own implementation (gptTurbo.cs)
 https://www.youtube.com/watch?v=RRGtluRf7ys&ab_channel=UnityAdventure
 
 The API Documentation I used
